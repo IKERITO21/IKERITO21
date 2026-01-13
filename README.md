@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Iker Alexander Diaz Lopez
 
-<!--
-**IKERITO21/IKERITO21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil! Aquí puedes encontrar información sobre mis estudios y pasatiempos.
 
-Here are some ideas to get you started:
+## Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Nombre completo:** Iker Alexander Diaz Lopez
+*   **Estudios:** Actualmente curso el **3ro A de secundaria** en el **Instituto Bilingüe Frida Kahlo**.
+*   **Intereses Principales:** Me apasiona el deporte, especialmente jugar fútbol.
+
+## Pasatiempos
+
+Mis pasatiempos giran en torno al deporte y la actividad física.
+*   Jugar fútbol ⚽
+*   Jugar (actividad general, como videojuegos, juegos de mesa, etc.)
